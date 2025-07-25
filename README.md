@@ -18,3 +18,7 @@ Example;
 
 Optional:
 Remove qbx_hud and qbx_seatbelt and add in your own standalone hud script.
+
+You can move the location of the hud inside the style.css file under #hud.
+<img width="271" height="187" alt="image" src="https://github.com/user-attachments/assets/72948354-fda0-44ef-8894-2766b0b57c30" />
+
