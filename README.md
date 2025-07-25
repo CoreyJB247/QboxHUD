@@ -18,14 +18,3 @@ Example;
 
 Optional:
 Remove qbx_hud and qbx_seatbelt and add in your own standalone hud script.
-
-
-Recommended Hud scripts to work alongside this:
-Paid:
-rHud : https://forum.cfx.re/t/rhud/4855534
-or 
-BigDaddyHUD: https://bigdaddyscripts.com/Products/View/1676/HUD | https://bigdaddyscripts.com/Products/View/1702/Speedometer-PLUS
-
- Other free options Could include:
- Carhud : https://forum.cfx.re/t/release-carhud-and-helihud-modified-and-better-looking-v-1-9-new-update/97812
- Streetlabel : https://github.com/codibez/streetlabel
